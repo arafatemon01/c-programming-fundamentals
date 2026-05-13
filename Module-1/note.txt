@@ -1,0 +1,7 @@
+Explain why we need long long int data type? 
+
+
+we use long long int because when regular int is not large enough to store a value.
+
+int can store only 2^9
+and that long long int store 28

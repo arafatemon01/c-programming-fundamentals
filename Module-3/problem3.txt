@@ -1,0 +1,5 @@
+// Write the differences between break and continue
+break = loop পুরোপুরি শেষ হয়ে যায়
+continue = present ineration skip kora
+break = loop close hoiya jai 
+continue = loop ranning 

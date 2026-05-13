@@ -1,0 +1,3 @@
+if else ladder হলো এমন একটি structure যেখানে multiple conditions একের পর এক check করা হয়
+👉 একটার condition false হলে, পরেরটা check করে
+👉 যেটা true হবে, সেই block run হবে

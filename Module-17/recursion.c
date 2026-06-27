@@ -6,5 +6,5 @@ void hello (){
 int main(){
    printf ("HI\n");
    hello ();
-return 0;
+return 0; 
 }
